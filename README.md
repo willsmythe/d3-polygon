@@ -1,5 +1,7 @@
 # d3-polygon
 
+[![Build Status](https://dev.azure.com/d3/d3/_apis/build/status/d3.d3-polygon)](https://dev.azure.com/d3/d3/_build/definition?definitionId=21)
+
 This module provides a few basic geometric operations for two-dimensional polygons. Each polygon is represented as an array of two-element arrays [​[<i>x1</i>, <i>y1</i>], [<i>x2</i>, <i>y2</i>], …], and may either be closed (wherein the first and last point are the same) or open (wherein they are not). Typically polygons are in counterclockwise order, assuming a coordinate system where the origin ⟨0,0⟩ is in the top-left corner.
 
 ## Installing
